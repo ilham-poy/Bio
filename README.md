@@ -6,11 +6,10 @@
 
 ###
 
-<div class="tenor-gif-embed" align="center" data-postid="22727068" data-share-method="host" data-aspect-ratio="1.6" data-width="100%">
-  <a href="https://tenor.com/view/lannabanana-gif-22727068"></a>
-  <a href="https://tenor.com/search/lannabanana-gifs"></a>
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
-<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 ###
 
 <h3 align="left">About me🐉</h3>
