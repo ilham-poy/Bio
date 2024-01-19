@@ -6,9 +6,7 @@
 
 ###
 
-<div align="center">
-  <iframe src="https://giphy.com/embed/1yld7nW3oQ2IyRubUm" width="312" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/1yld7nW3oQ2IyRubUm">via GIPHY</a></p>
-</div>
+<img src="https://wallup.net/wp-content/uploads/2017/11/23/496444-pixel_art-fantasy_art-digital_art-mountains-castle.jpg">
 
 ###
 
